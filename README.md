@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gyanaranjanmishra0103
 - 👀 I’m interested in learning new techniques ...
-- 🌱 I’m currently working as a Software Developer 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a Software Developer in C++ Domain .
+- 💞️ I have basics idea of C++ Concepts,STL in C++,Threading,Visual Studio-2019 etc .
 - 📫 You can reach me with gyanaranjanmishra0103@gmail.com ...
 
 <!---
